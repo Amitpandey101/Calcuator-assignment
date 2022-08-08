@@ -1,0 +1,17 @@
+.centre{
+position: relative;
+left: 486px;
+}
+.btn{
+    width:65px;
+    background-color: aqua;
+    margin: 6px 2px;
+    border: 2px solid rgb(191, 191, 212);
+}
+.btn1{
+    width: 90px;
+    height: 40px;
+    background-color: aqua;
+    margin: 6px 2px;
+
+}
